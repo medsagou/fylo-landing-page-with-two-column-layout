@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github code source](https://github.com/medsagou/fylo-landing-page-with-two-column-layout.git)
+- Live Site URL: [Preview](https://medsagou.github.io/fylo-landing-page-with-two-column-layout/)
 
 ## My process
 
